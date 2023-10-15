@@ -1,6 +1,9 @@
 # lab_task_1
 
-A new Flutter project.
+Output:
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/041b4b3c-ab50-4b80-b03c-4945ed9b3b1d)
+
 
 ## Getting Started
 
