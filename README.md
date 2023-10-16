@@ -1,6 +1,13 @@
 # lab_tasks_8
 
-A new Flutter project.
+Output:
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/5c9f58b0-96a6-4935-99c0-a267f00b95e4)
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/9def9ec9-62d8-4b14-975c-ab051bb1c275)
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/a2ba2f47-aa5d-4262-b030-54506a82b76c)
+
 
 ## Getting Started
 
