@@ -52,10 +52,10 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           markers: {
             const Marker(
-              markerId: MarkerId("mymarker"),
+              markerId: MarkerId("20SW043"),
               icon: BitmapDescriptor.defaultMarker,
               position: LatLng(37.4279, -122.0888),
-              infoWindow: InfoWindow(title: "My Marker"),
+              infoWindow: InfoWindow(title: "20SW043"),
             )
           },
         ),
