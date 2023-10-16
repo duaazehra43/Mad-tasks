@@ -4,7 +4,8 @@ Output:
 
 ![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/4e035fa1-19d5-4043-9261-a4ebba34e0b5)
 
-![Uploading image.png…]()
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/6bf36c4d-5ea3-4416-9f81-f1acfe8b2b96)
+
 
 
 
