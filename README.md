@@ -1,6 +1,17 @@
 # lab_task_5
 
-A new Flutter project.
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/41ee9248-00a0-4b83-a077-eb5bd553a581)
+
+Changes onTap:
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/de565158-e71e-4b01-960b-7033a39ab57d)
+
+Used PhotoView Dependency to Zoom in and out:
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/48b0b240-9bec-4b2a-a3e7-f02efc79c25a)
+
+
+
 
 ## Getting Started
 
