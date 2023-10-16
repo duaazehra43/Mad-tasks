@@ -1,6 +1,9 @@
 # lab_task_7
 
-A new Flutter project.
+Output in Mobile:
+
+![image](https://github.com/duaazehra43/Mad-tasks/assets/80267272/1b531ade-93b2-40d4-beba-5533641a7bf5)
+
 
 ## Getting Started
 
